@@ -1,7 +1,7 @@
 # clear-cache
 A chrome extension that clears your cache and reloads the active tab
 
-# Installation
+## Installation
 1. Download the files and save them in a folder on your computer.
 2. Type "chrome://extensions" into the url bar and hit enter.
 3. Click the "Developer mode" toggle in the top right.
